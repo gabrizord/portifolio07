@@ -82,7 +82,7 @@ public class GerenciaBanco {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("============== Menu Principal1111 ==============");
+            System.out.println("============== Menu Principal ==============");
             System.out.println("Escolha uma opção:");
             System.out.println("1 - Consultar Saldo");
             System.out.println("2 - Realizar Depósito");
